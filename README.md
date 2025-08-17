@@ -1,1 +1,1 @@
-# Havenly 
+# VistaStay - Vacation Rental Platform 
